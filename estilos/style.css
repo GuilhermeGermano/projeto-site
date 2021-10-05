@@ -4,13 +4,17 @@
 }
 
 body{
-    background-color:rgba(7, 7, 204, 0.761) ;
+    background-color: #1c1cffe7;
 }
 
 main{
     background-color: whitesmoke;
-    width: 500px;
+    width: 560px;
     margin: auto;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.467);
     padding: 10px;
+}
+
+img.lado{
+    float: right;
 }
